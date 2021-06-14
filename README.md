@@ -1,5 +1,12 @@
 # Embeddable Common-Lisp Static Binary
 
+## Compiling
+
+```
+make
+./hello
+```
+
 ## License
 
 SPDX-License-Identifier: [0BSD](https://spdx.org/licenses/0BSD.html)
