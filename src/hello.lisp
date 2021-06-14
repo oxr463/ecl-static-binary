@@ -2,3 +2,6 @@
   (format t "Hello, World!~%"))
 
 (hello)
+
+(quit)
+
