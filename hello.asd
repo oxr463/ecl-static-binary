@@ -6,4 +6,5 @@
   :components
   ((:module "src"
             :components
-            ((:file "hello")))))
+            ((:file "hello"))))
+  :depends-on   (:unix-opts))
