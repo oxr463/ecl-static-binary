@@ -7,4 +7,7 @@
   ((:module "src"
             :components
             ((:file "hello"))))
-  :depends-on   (:unix-opts))
+  :depends-on   (:unix-opts)
+  :build-operation "program-op"
+  :build-pathname "hello"
+  :entry-point "oxr463-hello:hello")
