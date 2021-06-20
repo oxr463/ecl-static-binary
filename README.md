@@ -4,7 +4,6 @@
 
 ```
 make
-./hello
 ```
 
 ## License
